@@ -1,3 +1,5 @@
-{
-    "Datacenter" : "Lab"
-}
+[
+    {
+            "Datacenter" : "Lab"
+    }
+]
