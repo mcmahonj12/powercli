@@ -1,3 +1,10 @@
 {
-    "Datacenter": "Lab"
+    "Datacenter": "Lab",
+    "Cluster": "src-55-clst",
+    "Hosts": [
+        {
+            "fqdn": "esxi-1.corp.local",
+            "ip": "192.168.1.10"
+        }
+    ]
 }
